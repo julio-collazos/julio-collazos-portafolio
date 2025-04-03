@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/julio-collazos-portafolio/static/css/main.10d2b714.css",
+    "main.js": "/julio-collazos-portafolio/static/js/main.be38ae5e.js",
+    "static/js/453.b05d8aa5.chunk.js": "/julio-collazos-portafolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock10.png": "/julio-collazos-portafolio/static/media/mock10.2d05b02ba569a430a255.png",
+    "static/media/bg-light.png": "/julio-collazos-portafolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/julio-collazos-portafolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/profile_picture2.jpeg": "/julio-collazos-portafolio/static/media/profile_picture2.9825169828d1c119b77c.jpeg",
+    "index.html": "/julio-collazos-portafolio/index.html",
+    "main.10d2b714.css.map": "/julio-collazos-portafolio/static/css/main.10d2b714.css.map",
+    "main.be38ae5e.js.map": "/julio-collazos-portafolio/static/js/main.be38ae5e.js.map",
+    "453.b05d8aa5.chunk.js.map": "/julio-collazos-portafolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d2b714.css",
+    "static/js/main.be38ae5e.js"
+  ]
+}
