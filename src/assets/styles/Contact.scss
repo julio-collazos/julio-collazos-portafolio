@@ -3,8 +3,25 @@
   vertical-align: middle;
   margin-right: 5px;
 }
-
 .contact-form {
+  .MuiInputBase-input {
+    color: #0d1116 !important; 
+  }
+
+  .MuiInputLabel-root {
+    color: #0d1116 !important; 
+  }
+
+  .MuiInputBase-root {
+    background-color: white !important; 
+  }
+
+  .MuiOutlinedInput-notchedOutline {
+    border-color: #0d1116 !important; 
+  }
+}
+
+.dark-mode .contact-form {
   padding-top: 20px;
 
   button {
@@ -36,24 +53,6 @@
 
   .MuiOutlinedInput-notchedOutline {
     border-color: white !important; 
-  }
-}
-
-.light-mode .contact-form {
-  .MuiInputBase-input {
-    color: #0d1116 !important; 
-  }
-
-  .MuiInputLabel-root {
-    color: #0d1116 !important; 
-  }
-
-  .MuiInputBase-root {
-    background-color: white !important; 
-  }
-
-  .MuiOutlinedInput-notchedOutline {
-    border-color: #0d1116 !important; 
   }
 }
 
