@@ -1,10 +1,5 @@
 import React from "react";
-import mock05 from '../assets/images/mock05.png';
-import mock06 from '../assets/images/mock06.png';
-import mock07 from '../assets/images/mock07.png';
-import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/mock10.png';
+import mock1 from '../assets/images/img_proj1.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -13,9 +8,9 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://medium.com/@jccollazosave/️geojson-and-the-eudr-regulation-97d30f4c8a93" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://medium.com/@jccollazosave/️geojson-and-the-eudr-regulation-97d30f4c8a93" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://github.com/julio-collazos/deforestation_free" target="_blank" rel="noreferrer"><img src={mock1} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/julio-collazos/deforestation_free" target="_blank" rel="noreferrer"><h2>The Road to DCF Products</h2></a>
+                <p>Project under development.</p>
             </div>
             {/* <div className="project">
                 <a href="https://medium.com/@jccollazosave/️geojson-and-the-eudr-regulation-97d30f4c8a93" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
